@@ -21,6 +21,8 @@ public class TestAll {
     public void test03(){
         System.out.println("nihaoshieji");
     }
+    public void b(){
+        System.out.println("this is b");
 
     public void a(){
         System.out.println("this is a");
