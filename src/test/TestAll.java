@@ -22,4 +22,8 @@ public class TestAll {
         System.out.println("nihaoshieji");
     }
 
+    public void a(){
+        System.out.println("this is a");
+    }
+
 }
