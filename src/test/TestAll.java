@@ -13,7 +13,7 @@ public class TestAll {
         System.out.println(user);
     }*/
     public void test01(){
-
+        System.out.println("hellodev");
     }
     public void test02(){
 
