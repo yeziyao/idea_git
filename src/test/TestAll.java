@@ -19,7 +19,7 @@ public class TestAll {
 
     }
     public void test03(){
-        System.out.println("新增方法");
+        System.out.println("nihaoshieji");
     }
 
 }
