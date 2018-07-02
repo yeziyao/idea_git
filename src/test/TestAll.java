@@ -27,5 +27,4 @@ public class TestAll {
     public void a(){
         System.out.println("this is a");
     }
-
 }
