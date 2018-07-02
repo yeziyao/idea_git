@@ -18,5 +18,8 @@ public class TestAll {
     public void test02(){
 
     }
+    public void test03(){
+        System.out.println("新增方法");
+    }
 
 }
